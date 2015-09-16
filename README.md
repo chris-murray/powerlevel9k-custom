@@ -3,6 +3,11 @@
 changes:
  - adds a online/offline marker on the right prompt to indicate connectivity.
 
+Online:
+![](http://ipstuff.ca/static/images/pl9k-online.png)
+
+Offline:
+![](http://ipstuff.ca/static/images/pl9k-offline.png)
 
 ## powerlevel9k Theme for ZSH
 
