@@ -34,7 +34,7 @@
 #   POWERLEVEL9K_CHANGESET_HASH_LENGTH=6
 #
 # Make powerlevel9k a double-lined prompt:
-#   POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 #
 # Set the colorscheme:
 #   POWERLEVEL9K_COLOR_SCHEME='light'
@@ -173,7 +173,7 @@ fi
 # color scheme
 ################################################################
 
-if [[ "$POWERLEVEL9K_COLOR_SCHEME" == "light" ]]; then
+if [[ "$POWERLEVEL9K_COLOR_SCHEME" == "dark" ]]; then
   DEFAULT_COLOR=white
   DEFAULT_COLOR_INVERTED=black
   DEFAULT_COLOR_DARK="252"
